@@ -1,16 +1,16 @@
 a{
   color:black;
-  
+
 }
 h1{
   font-size: 50px;
   text-align: center;
-  border-bottom: 2px solid black;
+  border-bottom: 2.4px solid black;
   margin: 0;
   padding: 20px;
 }
 .side1{
-  border-right: 2px solid black;
+  border-right: 2.4px solid black;
   width: 150px;   margin: 0; padding: 20px; padding-right: 0px; padding-left: 0px;
 }
 body{
@@ -36,4 +36,5 @@ body{
  h1{
    border-bottom: none;
  }
+
 }
